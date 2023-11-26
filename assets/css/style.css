@@ -1,0 +1,29 @@
+/* Google Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+/* Default Page Settings */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+/* Navigation */
+#navlinks a {
+    color: black;
+    text-decoration: none;
+}
+
+#navlinks a:hover {
+    color: grey;
+}
+
+#navlinks a.active {
+    color: red;
+}
