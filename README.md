@@ -1,6 +1,6 @@
 # **Project Title**
 ## **Site Overview**
-
+A simple HTML site, with two pages, folder structure, header and sticky footer, using flexbox and bootstrap 5.
 
 
 [View the live project here](https://DEPLOYED-LINK).
